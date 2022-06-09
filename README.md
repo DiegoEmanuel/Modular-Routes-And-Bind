@@ -1,4 +1,4 @@
-# my_smart_app
+# A flutter app that calls My_smart_app
 
 A new Flutter project.
 
